@@ -1,0 +1,6 @@
+Python 
+Streamlit
+TensorFlow
+NumPy
+Matplotlib
+Pillow
